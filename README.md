@@ -20,6 +20,7 @@ https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-anal
 ## Tools Used
 - Jupyter Notebook
 
+
 ## Project Workflow
 
 1. Data Loading.
