@@ -7,10 +7,10 @@ Visualized stock behavior over time and used heatmaps and scatter plots to deriv
 
 ## Technologies Used
 
--Python
--Pandas
--NumPy
--Matplotlib
--Seaborn
--scikit-learn
--Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
