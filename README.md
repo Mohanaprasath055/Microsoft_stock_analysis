@@ -7,19 +7,10 @@ Visualized stock behavior over time and used heatmaps and scatter plots to deriv
 
 ## Technologies Used
 
-### Frontend:
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-### Backend:
-- Python
-- Flask
-- MySQL
-- werkzeug.security
-- Flask-Mail (for email notifications)
-
-### Programming Concepts:
-- Object-Oriented Programming
-- Data Structures & Algorithms (Stack, Sorting)
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-scikit-learn
+-Jupyter Notebook
