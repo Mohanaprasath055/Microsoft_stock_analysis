@@ -32,5 +32,5 @@ https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-anal
 8. Data Splitting (train-test split)
 9. Model Building (Linear Regression)
 10. Model Training and Testing.
-11. Data Visualization.
+11. Regression Line Visualization.
 12. Evaluation Metrics(R² Score, MSE).
