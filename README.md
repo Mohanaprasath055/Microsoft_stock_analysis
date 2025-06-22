@@ -4,7 +4,8 @@ Performed exploratory data analysis on Microsoft’s historical stock data to id
 Engineered features and trained a Linear Regression model to predict stock closing prices, achieving strong results (R² = 0.96, MSE = 5.12).
 Visualized stock behavior over time and used heatmaps and scatter plots to derive actionable insights on market movement and feature relationships.
 
-## Dataset: (https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-analysis)
+## Dataset: 
+https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-analysis
 
 
 ## Technologies Used
