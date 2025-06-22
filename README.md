@@ -16,6 +16,8 @@ https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-anal
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+## Tools Used
 - Jupyter Notebook
 
 ## Project Workflow
@@ -31,4 +33,4 @@ https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-anal
 9. Correlation Analysis
 10. Data Splitting (train-test split)
 11. Model Building (Linear Regression)
-12. Model Evaluation (R² Score, MSE, Visualization)
+12. Evaluation Metrics(R² Score, MSE)
