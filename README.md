@@ -22,13 +22,15 @@ https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-anal
 
 ## Project Workflow
 
-1. Data Loading
-2. Exploratory Data Analysis (EDA)
-3. Data Cleaning (handling nulls, duplicates, outliers)
+1. Data Loading.
+2. Exploratory Data Analysis (EDA).
+3. Data Cleaning (handling nulls, duplicates, outliers).
 4. Feature Engineering.
 5. Correlation Analysis.
-6. Data Type Conversion (e.g., converting `Date` column)
-7. Sorting Data by Date
-11. Data Splitting (train-test split)
-12. Model Building (Linear Regression)
-13. Evaluation Metrics(R² Score, MSE)
+6. Data Type Conversion (e.g., converting `Date` column).
+7. Define Target Variable.
+8. Data Splitting (train-test split)
+9. Model Building (Linear Regression)
+10. Model Training and Testing.
+11. Data Visualization.
+12. Evaluation Metrics(R² Score, MSE).
